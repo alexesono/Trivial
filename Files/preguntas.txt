@@ -1,0 +1,50 @@
+Que componente no tiene un portatil?
+A) Refrigeracion liquida
+B) RAM
+C) SSD
+D) WEBCAM
+Que es la unidad central de procesamiento (CPU)?
+A) El cerebro del ordenador que procesa las instrucciones.
+B) El componente que almacena los datos del ordenador.
+C) El dispositivo que muestra la información visual del ordenador.
+D) El dispositivo que permite la conexión a Internet.
+Que es la tarjeta madre (placa base)?
+A) La placa donde se conectan todos los componentes del ordenador.
+B) El dispositivo que almacena los datos del ordenador.
+C) El componente que muestra la información visual del ordenador.
+D) El dispositivo que permite la conexión a Internet.
+Que es la memoria RAM?
+A) La memoria temporal del ordenador que almacena los datos que se están utilizando en ese momento.
+B) El dispositivo que almacena los datos del ordenador.
+C) El componente que muestra la información visual del ordenador.
+D) El dispositivo que permite la conexión a Internet.
+Que es un disco duro?
+A) El dispositivo que almacena los datos del ordenador a largo plazo.
+B) El componente que muestra la información visual del ordenador.
+C) El dispositivo que permite la conexión a Internet.
+D) La placa donde se conectan todos los componentes del ordenador.
+Que es un sistema operativo?
+A) El software que gestiona los recursos del ordenador y permite la comunicación con el usuario.
+B) El dispositivo que almacena los datos del ordenador.
+C) El componente que muestra la información visual del ordenador.
+D) El dispositivo que permite la conexión a Internet.
+Que es un navegador web?
+A) El software que permite acceder a páginas web e interactuar con ellas.
+B) El dispositivo que almacena los datos del ordenador.
+C) El componente que muestra la información visual del ordenador.
+D) El dispositivo que permite la conexión a Internet.
+Que es un virus informático?
+A) Un programa malicioso que se propaga en un ordenador y puede causar daños.
+B) El componente que muestra la información visual del ordenador.
+C) El dispositivo que permite la conexión a Internet.
+D) El software que gestiona los recursos del ordenador y permite la comunicación con el usuario.
+Que es una red de ordenadores?
+A) Un conjunto de ordenadores conectados entre sí para compartir recursos y datos.
+B) El componente que muestra la información visual del ordenador.
+C) El dispositivo que permite la conexión a Internet.
+D) El software que gestiona los recursos del ordenador y permite la comunicación con el usuario.
+Que es un archivo?
+A) Un conjunto de datos almacenados en un soporte físico o digital.
+B) El componente que muestra la información visual del ordenador.
+C) El dispositivo que permite la conexión a Internet.
+D) El software que gestiona los recursos del ordenador y permite la comunicación con el usuario.
